@@ -1,0 +1,53 @@
+States 1970 2020
+Alabama 20.5 27.61
+Alaska 21.6 28.8
+Arizona 21.2 28.61
+Arkansas 20.2 27.19
+California 21.8 30.31
+Colorado 21.6 29.76
+Connecticut 22.5 30.7
+Delaware 21.4 29.3
+Florida 21 29.38
+Georgia 20.7 28.61
+Hawaii 22.4 29.76
+Idaho 20.8 28.34
+Illinois 21.5 29.69
+Indiana 20.9 28.13
+Iowa 21.3 28.7
+Kansas 21.1 28.4
+Kentucky 20.7 27.66
+Louisana 20.5 27.83
+Maine 21.2 29.51
+Maryland 21.6 30.25
+Massachusetts 22.5 31.25
+Michigan 21.2 28.95
+Minnesota 22 30.08
+Mississippi 20.3 27.04
+Missouri 21.1 28.34
+Montana 21.2 28.94
+Nebraska 21.4 29
+Nevada 21.3 28.96
+New Hamsphire 21.6 30.16
+New Jersey 22.4 30.86
+New Mexico 21 27.88
+New York 22.5 30.45
+North Carolina 20.8 28.74
+North Dakota 21.5 28.87
+Ohio 21.3 28.56
+Oklahoma 20.7 27.56
+Oregon 21.4 29.73
+Pennsylvania 21.7 29.49
+Rhode Island 22.1 29.98
+South Carolina 20.6 28.41
+South Dakota 21.1 28.49
+Tennessee 20.7 28.04
+Texas 20.9 28.45
+Utah 21.4 28.75
+Vermont 21.7 30.17
+Virginia 21.4 29.7
+Washington 21.5 29.94
+West Virginia 20.8 27.36
+Wisconsin 21.8 29.33
+Wyoming 21 28.1
+
+
